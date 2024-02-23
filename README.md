@@ -26,10 +26,16 @@ Turing's prediction was overly optimistic. By 2000, computers had made significa
 Domain: “Online Customer Support Chabots”
 
 Environment Description:
+
 ● Accessible: The environment is accessible, meaning the agent can observe and interact with it through a digital interface.
+
 ● Deterministic: Responses from users and system actions have clear outcomes, making the environment deterministic.
+
 ● Episodic: Each interaction with a user constitutes an episode, as they are discrete and independent of each other.
-● Static: The environment remains relatively stable during interactions, with no significant changes occurring outside of user inputs and system responses.
+
+● Static: The environment remains relatively stable during interactions, with no significant changes occurring outside of user inputs
+and system responses.
+
 ● Discrete: Interactions with users occur in discrete messages or exchanges rather than continuous streams of data.
 
 Agent Architecture: 
