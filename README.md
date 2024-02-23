@@ -5,9 +5,10 @@
 |K214321|Sajjid Sajjid|
 
 ## Q1
-Write your answer to question 1 here ....
+
 ## Q2
-Write your answer to question 2 here ....
+
+
 ## Q3
 Write your answer to question 3 here ....
 ## Q4
